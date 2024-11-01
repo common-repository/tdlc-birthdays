@@ -1,0 +1,200 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: TDLC Birthdays\n"
+"POT-Creation-Date: 2018-06-12 18:44+0100\n"
+"PO-Revision-Date: 2018-06-12 18:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: tdlc-birthdays.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core.php:88
+msgid "You should make some friends to see their birthday here!"
+msgstr ""
+
+#: core.php:91
+msgid "You must be logged in to see the birthday of your friends."
+msgstr ""
+
+#: core.php:108
+msgid "You should follow people to see their birthday here!"
+msgstr ""
+
+#: core.php:111
+msgid ""
+"Followers plugin should be enabled to see the birthday of followed people"
+msgstr ""
+
+#: core.php:114
+msgid "You must be logged in to see the birthday of the people you follow."
+msgstr ""
+
+#: core.php:163
+msgid "No birthday today..."
+msgstr ""
+
+#: core.php:166
+msgid "No birthdays today or tomorrow..."
+msgstr ""
+
+#: core.php:169
+#, php-format
+msgid "No birthdays in the next %d days..."
+msgstr ""
+
+#: core.php:183
+msgid "Add your birthdate to your profile"
+msgstr ""
+
+#: core.php:199
+msgid "Happy birthday to "
+msgstr ""
+
+#: core.php:201
+msgid "!"
+msgstr ""
+
+#: core.php:203
+msgid " who turned "
+msgstr ""
+
+#: core.php:203
+msgid " today!"
+msgstr ""
+
+#: core.php:215
+msgid "Upcoming birthdays:"
+msgstr ""
+
+#: core.php:225
+#, php-format
+msgid " (%1$d/%2$d)"
+msgstr ""
+
+#: core.php:227
+#, php-format
+msgid " (%1$d/%2$d, %3$d years old)"
+msgstr ""
+
+#: core.php:243 core.php:316
+msgid "Birthdays"
+msgstr ""
+
+#: core.php:255
+msgid "Please configure mandatory settings in the control panel."
+msgstr ""
+
+#: core.php:334
+msgid "Widget Title: "
+msgstr ""
+
+#: core.php:339
+msgid "Birthday field ID or exact Name: "
+msgstr ""
+
+#: core.php:342
+msgid ""
+"Create a datebox in your BuddyPress Profile Fields to store the birthdays "
+"and add its ID or Name here."
+msgstr ""
+
+#: core.php:345
+msgid "Display birthdays of :"
+msgstr ""
+
+#: core.php:350
+msgid " everyone "
+msgstr ""
+
+#: core.php:356
+msgid " friends only "
+msgstr ""
+
+#: core.php:362
+msgid " followed people only "
+msgstr ""
+
+#: core.php:368
+msgid " friends and followed people "
+msgstr ""
+
+#: core.php:372
+msgid "Only display birthdays of the users friends"
+msgstr ""
+
+#: core.php:375
+msgid "For Followed people - you must install Andy Peatling's Followers plugin"
+msgstr ""
+
+#: core.php:377
+msgid ""
+"For 'followed people', the user must be registered, connected and follow "
+"people!"
+msgstr ""
+
+#: core.php:381
+msgid "Display birthdays happening in the next: "
+msgstr ""
+
+#: core.php:382
+msgid " days."
+msgstr ""
+
+#: core.php:383
+msgid "Set to 0 if you don't want to display upcoming birthdays."
+msgstr ""
+
+#: core.php:386
+msgid "Hide ages"
+msgstr ""
+
+#: core.php:388
+msgid "Check this if you don't want the widget to tell how old people are!"
+msgstr ""
+
+#: core.php:391
+msgid "Show profile link"
+msgstr ""
+
+#: core.php:393
+msgid ""
+"Check this if you want the widget to display an \"add your birdthdate\" link "
+"if current user's birthdate is missing from their profile."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TDLC Birthdays"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.t0m.fr/2009/wordpress/plugin-buddypress-tdlc-birthdays.html"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This simple Buddypress Widget uses a Birthday field from Buddypress extended "
+"profile to display a list of upcoming birthdays of the user's friends. "
+"English, French, German, Hungarian, Italian, Japanese, Polish, Russian and "
+"Spanish languages available."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Venutius"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.buddyuser.com"
+msgstr ""
